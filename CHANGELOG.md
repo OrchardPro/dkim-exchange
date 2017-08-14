@@ -5,6 +5,8 @@
 
 
 ## Releases
+* 14.08.2017 [3.0.10]:
+        New: Support for Exchange 2016 CU6
 * 23.04.2017 [3.0.9]:  
 	New: Support for Exchange 2016 CU5  
 	Fix: Sort list of domains in Configuration tool  
